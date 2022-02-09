@@ -19,3 +19,8 @@ Faker - Package for generating fake data
 wxPython - Package for creating GUI
 Pandas - Library for data analysis
 Matplotlib - Plotting library 
+
+![User IoT Sensor Data Screenshot 1](screenshot-1.jpg)
+![User IoT Sensor Data Screenshot 2](screenshot-2.jpg)
+![User IoT Sensor Data Screenshot 3](screenshot-3.jpg)
+![User IoT Sensor Data Screenshot 4](screenshot-4.jpg)
